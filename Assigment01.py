@@ -2,10 +2,12 @@
 a =10
 b=0.5
 c="pooji"
+d="age"
 
 print(a)
 print(b)
 print(c)
+print(d)
 
 """Q2"""
 
